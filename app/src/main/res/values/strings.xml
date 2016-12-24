@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="send_button_text">Send</string>
+    <string name="message_input_text">Enter your message</string>
+</resources>
